@@ -1,6 +1,6 @@
 # Templates for Contact Form 7
 
-This repo contains form and message templates for the Wordpress module Contact Form 7.
+This repo contains form and message templates for the Wordpress plugin Contact Form 7.
 
 ## How to use these templates
 
