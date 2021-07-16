@@ -11,7 +11,7 @@ You will also need to update the header fields under the Mail tab.
 
 Example for an enquiry form with no subject field:
 
-| Field              | Value                                         |
-| :----------------- | :-------------------------------------------- |
-| Subject            | Enquiry (submitted via [_site_title] website) |
-| Additional headers | Reply-To: [email]                             |
+| Field              | Value                                           |
+| :----------------- | :---------------------------------------------- |
+| Subject            | `Enquiry (submitted via [_site_title] website)` |
+| Additional headers | `Reply-To: [email]`                             |
